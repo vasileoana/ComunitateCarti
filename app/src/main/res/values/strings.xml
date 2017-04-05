@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Comunitate Carti</string>
+    <string name="usernameText">Utilizator</string>
+    <string name="password">Parola</string>
+    <string name="btnLogin">Autentificare</string>
+    <string name="btnRegister">Inregistrare</string>
+    <string name="titlu">Bine ai venit!</string>
+    <string name="numeUtilizator">Nume</string>
+    <string name="prenumeUtilizator">Prenume</string>
+    <string name="passwordHint">Minim 5 caractere</string>
+    <string name="titluInregistrare">Inregistrare</string>
+    <string name="email">Email</string>
+    <string name="telefon">Telefon</string>
+    <string name="btnInregText">Trimite</string>
+    <string name="title_activity_meniu">Meniu</string>
+    <string name="titluMeniu">Meniu</string>
+    <string name="meniuProfil">Profil</string>
+    <string name="meniuToateCartile">Toate cartile</string>
+    <string name="meniuAdaugaCarte">Gestionare carti</string>
+    <string name="sex">Sex</string>
+    <string name="tvSex">Sex</string>
+    <string name="tvDataNasterii">Data nasterii</string>
+    <string name="varsta">Varsta</string>
+    <string name="titluListViewProfil">Lista mea de carti:</string>
+    <string name="reviewText">Review</string>
+    <string name="categoriiText">Categorie:</string>
+    <string name="autoriText">Autor:</string>
+    <string name="adaugaButonText">Adauga o carte</string>
+    <string name="btnSalvareSchimbari">Salvare schimbari</string>
+    <string name="addReviewBtn">Adauga comentariu</string>
+    <string name="hintReview">Scrie aici parerea</string>
+    <string name="hintUtilizator">Utilizator</string>
+    <string name="hintEmail">Email</string>
+    <string name="descriereAplicatie">Aplicatia este destinata iubitorilor de carti</string>
+    <string name="addBookAutor">Autor:</string>
+    <string name="addBookCategorie">Categorie:</string>
+    <string name="addBookDisponibilitate">Disponibilitate:</string>
+    <string name="cbDa">Da</string>
+    <string name="cbNu">Nu</string>
+    <string name="rbDaText">Da</string>
+    <string name="rbNuText">Nu</string>
+    <string name="denumireCarte">Denumire</string>
+    <string name="autorCarte">Autor</string>
+    <string name="categorieCarte">Categorie</string>
+    <string name="adaugaCarteButtonText">Adauga</string>
+    <string name="iesireButtonText">Iesire</string>
+    <string name="meniuLogout">Logout</string>
+    <string name="imprumutaCarte">Imprumuta carte</string>
+    <string name="statistici">Statistici</string>
+
+
+    <string-array name="genuri">
+        <item>Arta &amp; Design</item>
+        <item>Biografii &amp; Memorii</item>
+        <item>Business &amp; Economie</item>
+        <item>Cultura generala</item>
+        <item>Dictionare &amp; Enciclopedii</item>
+        <item>Diete, Fitness &amp; Retete</item>
+        <item>Divertisment</item>
+        <item>Familie</item>
+        <item>Fictiune</item>
+        <item>Istorie</item>
+        <item>Lecturi motivationale</item>
+        <item>Medicina</item>
+        <item>Publicistica &amp; Eseuri</item>
+        <item>Turism</item>
+    </string-array>
+    <string name="title_activity_statistici">StatisticiActivity</string>
+    <string name="meniuStatisticiCanvas">Statistici-canvas</string>
+
+</resources>
